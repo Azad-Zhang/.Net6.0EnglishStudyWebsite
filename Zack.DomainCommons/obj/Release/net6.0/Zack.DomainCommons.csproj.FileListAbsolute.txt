@@ -1,0 +1,12 @@
+D:\chrome浏览器下载文件\下载文件\NETBookMaterials-main\NETBookMaterials-main\最后大项目代码\YouZack-VNext\Zack.DomainCommons\bin\Release\net6.0\Zack.DomainCommons.deps.json
+D:\chrome浏览器下载文件\下载文件\NETBookMaterials-main\NETBookMaterials-main\最后大项目代码\YouZack-VNext\Zack.DomainCommons\bin\Release\net6.0\Zack.DomainCommons.dll
+D:\chrome浏览器下载文件\下载文件\NETBookMaterials-main\NETBookMaterials-main\最后大项目代码\YouZack-VNext\Zack.DomainCommons\bin\Release\net6.0\Zack.DomainCommons.pdb
+D:\chrome浏览器下载文件\下载文件\NETBookMaterials-main\NETBookMaterials-main\最后大项目代码\YouZack-VNext\Zack.DomainCommons\obj\Release\net6.0\Zack.DomainCommons.csproj.AssemblyReference.cache
+D:\chrome浏览器下载文件\下载文件\NETBookMaterials-main\NETBookMaterials-main\最后大项目代码\YouZack-VNext\Zack.DomainCommons\obj\Release\net6.0\Zack.DomainCommons.GeneratedMSBuildEditorConfig.editorconfig
+D:\chrome浏览器下载文件\下载文件\NETBookMaterials-main\NETBookMaterials-main\最后大项目代码\YouZack-VNext\Zack.DomainCommons\obj\Release\net6.0\Zack.DomainCommons.AssemblyInfoInputs.cache
+D:\chrome浏览器下载文件\下载文件\NETBookMaterials-main\NETBookMaterials-main\最后大项目代码\YouZack-VNext\Zack.DomainCommons\obj\Release\net6.0\Zack.DomainCommons.AssemblyInfo.cs
+D:\chrome浏览器下载文件\下载文件\NETBookMaterials-main\NETBookMaterials-main\最后大项目代码\YouZack-VNext\Zack.DomainCommons\obj\Release\net6.0\Zack.DomainCommons.csproj.CoreCompileInputs.cache
+D:\chrome浏览器下载文件\下载文件\NETBookMaterials-main\NETBookMaterials-main\最后大项目代码\YouZack-VNext\Zack.DomainCommons\obj\Release\net6.0\Zack.DomainCommons.dll
+D:\chrome浏览器下载文件\下载文件\NETBookMaterials-main\NETBookMaterials-main\最后大项目代码\YouZack-VNext\Zack.DomainCommons\obj\Release\net6.0\refint\Zack.DomainCommons.dll
+D:\chrome浏览器下载文件\下载文件\NETBookMaterials-main\NETBookMaterials-main\最后大项目代码\YouZack-VNext\Zack.DomainCommons\obj\Release\net6.0\Zack.DomainCommons.pdb
+D:\chrome浏览器下载文件\下载文件\NETBookMaterials-main\NETBookMaterials-main\最后大项目代码\YouZack-VNext\Zack.DomainCommons\obj\Release\net6.0\ref\Zack.DomainCommons.dll

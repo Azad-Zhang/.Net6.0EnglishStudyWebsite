@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "bLUs/NL9jt87w800NuyxlHxsidfRRah908nHV0h+UBo=",
+  "Source": "IdentityService.WebAPI",
+  "BasePath": "_content/IdentityService.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

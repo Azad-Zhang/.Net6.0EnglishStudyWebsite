@@ -1,0 +1,17 @@
+D:\chrome浏览器下载文件\下载文件\NETBookMaterials-main\NETBookMaterials-main\最后大项目代码\YouZack-VNext\Zack.Infrastructure\bin\Release\net6.0\Zack.Infrastructure.deps.json
+D:\chrome浏览器下载文件\下载文件\NETBookMaterials-main\NETBookMaterials-main\最后大项目代码\YouZack-VNext\Zack.Infrastructure\bin\Release\net6.0\Zack.Infrastructure.dll
+D:\chrome浏览器下载文件\下载文件\NETBookMaterials-main\NETBookMaterials-main\最后大项目代码\YouZack-VNext\Zack.Infrastructure\bin\Release\net6.0\Zack.Infrastructure.pdb
+D:\chrome浏览器下载文件\下载文件\NETBookMaterials-main\NETBookMaterials-main\最后大项目代码\YouZack-VNext\Zack.Infrastructure\bin\Release\net6.0\Zack.Commons.dll
+D:\chrome浏览器下载文件\下载文件\NETBookMaterials-main\NETBookMaterials-main\最后大项目代码\YouZack-VNext\Zack.Infrastructure\bin\Release\net6.0\Zack.DomainCommons.dll
+D:\chrome浏览器下载文件\下载文件\NETBookMaterials-main\NETBookMaterials-main\最后大项目代码\YouZack-VNext\Zack.Infrastructure\bin\Release\net6.0\Zack.Commons.pdb
+D:\chrome浏览器下载文件\下载文件\NETBookMaterials-main\NETBookMaterials-main\最后大项目代码\YouZack-VNext\Zack.Infrastructure\bin\Release\net6.0\Zack.DomainCommons.pdb
+D:\chrome浏览器下载文件\下载文件\NETBookMaterials-main\NETBookMaterials-main\最后大项目代码\YouZack-VNext\Zack.Infrastructure\obj\Release\net6.0\Zack.Infrastructure.csproj.AssemblyReference.cache
+D:\chrome浏览器下载文件\下载文件\NETBookMaterials-main\NETBookMaterials-main\最后大项目代码\YouZack-VNext\Zack.Infrastructure\obj\Release\net6.0\Zack.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\chrome浏览器下载文件\下载文件\NETBookMaterials-main\NETBookMaterials-main\最后大项目代码\YouZack-VNext\Zack.Infrastructure\obj\Release\net6.0\Zack.Infrastructure.AssemblyInfoInputs.cache
+D:\chrome浏览器下载文件\下载文件\NETBookMaterials-main\NETBookMaterials-main\最后大项目代码\YouZack-VNext\Zack.Infrastructure\obj\Release\net6.0\Zack.Infrastructure.AssemblyInfo.cs
+D:\chrome浏览器下载文件\下载文件\NETBookMaterials-main\NETBookMaterials-main\最后大项目代码\YouZack-VNext\Zack.Infrastructure\obj\Release\net6.0\Zack.Infrastructure.csproj.CoreCompileInputs.cache
+D:\chrome浏览器下载文件\下载文件\NETBookMaterials-main\NETBookMaterials-main\最后大项目代码\YouZack-VNext\Zack.Infrastructure\obj\Release\net6.0\Zack.Infrastructure.csproj.CopyComplete
+D:\chrome浏览器下载文件\下载文件\NETBookMaterials-main\NETBookMaterials-main\最后大项目代码\YouZack-VNext\Zack.Infrastructure\obj\Release\net6.0\Zack.Infrastructure.dll
+D:\chrome浏览器下载文件\下载文件\NETBookMaterials-main\NETBookMaterials-main\最后大项目代码\YouZack-VNext\Zack.Infrastructure\obj\Release\net6.0\refint\Zack.Infrastructure.dll
+D:\chrome浏览器下载文件\下载文件\NETBookMaterials-main\NETBookMaterials-main\最后大项目代码\YouZack-VNext\Zack.Infrastructure\obj\Release\net6.0\Zack.Infrastructure.pdb
+D:\chrome浏览器下载文件\下载文件\NETBookMaterials-main\NETBookMaterials-main\最后大项目代码\YouZack-VNext\Zack.Infrastructure\obj\Release\net6.0\ref\Zack.Infrastructure.dll

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Listening.Admin.WebAPI.props" />
+</Project>

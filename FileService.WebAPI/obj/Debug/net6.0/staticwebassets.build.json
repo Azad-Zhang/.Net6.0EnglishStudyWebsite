@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "V2/+FnhvoYe8Mr8qPjtcAvx4CngI4SAXKvmaECQ/gcI=",
+  "Source": "FileService.WebAPI",
+  "BasePath": "_content/FileService.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "FileService.WebAPI\\wwwroot",
+      "Source": "FileService.WebAPI",
+      "ContentRoot": "C:\\Users\\Administrator\\Desktop\\YouZack-VNext\\FileService.WebAPI\\wwwroot\\",
+      "BasePath": "_content/FileService.WebAPI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

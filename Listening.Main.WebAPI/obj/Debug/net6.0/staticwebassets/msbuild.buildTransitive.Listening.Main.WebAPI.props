@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Listening.Main.WebAPI.props" />
+</Project>

@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "Zb9Vk52KpTwXRAq2Yg0H/s5ePIV8uQj25Zz0Q0ZBq979ZL+IfzAO17YxwmuGhXk6BWIPOWjmvTROxn1PJX9mfg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Administrator\\Desktop\\YouZack-VNext\\Zack.Commons\\Zack.Commons.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\asmresolver\\4.11.2\\asmresolver.4.11.2.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\asmresolver.dotnet\\4.11.2\\asmresolver.dotnet.4.11.2.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\asmresolver.pe\\4.11.2\\asmresolver.pe.4.11.2.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\asmresolver.pe.file\\4.11.2\\asmresolver.pe.file.4.11.2.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\fluentvalidation\\10.3.6\\fluentvalidation.10.3.6.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\6.0.0\\microsoft.extensions.dependencyinjection.6.0.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\system.text.encodings.web\\6.0.0\\system.text.encodings.web.6.0.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\system.text.json\\6.0.4\\system.text.json.6.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

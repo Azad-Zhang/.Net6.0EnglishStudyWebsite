@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Zack.JWT</id>
+    <version>1.0.1</version>
+    <authors>Zack Yang</authors>
+    <projectUrl>https://github.com/yangzhongke/NETBookMaterials</projectUrl>
+    <description>Package Description</description>
+    <repository url="https://github.com/yangzhongke/NETBookMaterials" />
+    <dependencies>
+      <group targetFramework="net6.0">
+        <dependency id="Zack.Commons" version="1.1.11" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.AspNetCore.Authentication.JwtBearer" version="6.0.1" exclude="Build,Analyzers" />
+        <dependency id="Swashbuckle.AspNetCore" version="6.2.3" exclude="Build,Analyzers" />
+        <dependency id="System.IdentityModel.Tokens.Jwt" version="6.15.1" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\chrome浏览器下载文件\下载文件\NETBookMaterials-main\NETBookMaterials-main\最后大项目代码\YouZack-VNext\Zack.JWT\bin\Release\net6.0\Zack.JWT.dll" target="lib\net6.0\Zack.JWT.dll" />
+  </files>
+</package>
